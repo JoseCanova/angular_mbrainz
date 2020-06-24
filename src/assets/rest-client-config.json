@@ -1,0 +1,7 @@
+{
+	"baseUrl": "http://localhost:8080",
+	"idBase": "/id",
+	"nameBase": "/name",
+	"artistUrl": "/artist",
+	"artistCreditUrl": "/artistCredit"
+}
